@@ -31,7 +31,7 @@ Before running the application, ensure you have the following installed:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/kenny755/Insurance-Cost-Analysis.git](https://www.google.com/search?q=https://github.com/kenny755/Insurance-Cost-Analysis.git)
+    git clone [Language translator En-Fr](https://github.com/kenny755/Insurance-Cost-Analysis/blob/master/Language%20Translation%20app.ipynb)
     cd Insurance-Cost-Analysis
     ```
 
@@ -119,4 +119,4 @@ This application can be used in various real-life scenarios, including:
 
 ## Jupyter Notebook
 
-The complete code and output for this project can be found in the [Language Translation app.ipynb](Language%20Translation%20app.ipynb) file. GitHub renders Jupyter Notebooks, allowing you to view the code and its results directly.
+The complete code and output for this project can be found in the [Language Translation En-Fr](https://github.com/kenny755/Insurance-Cost-Analysis/blob/master/Language%20Translation%20app.ipynb) file. GitHub renders Jupyter Notebooks, allowing you to view the code and its results directly.
