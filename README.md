@@ -28,14 +28,7 @@ Before running the application, ensure you have the following installed:
 
 ## Installation
 
-1.  **Clone the Repository:**
-
-    ```bash
-    git clone [Language translator En-Fr](https://github.com/kenny755/Insurance-Cost-Analysis/blob/master/Language%20Translation%20app.ipynb)
-    cd Insurance-Cost-Analysis
-    ```
-
-2.  **Install the Required Libraries:**
+1.  **Install the Required Libraries:**
 
     ```bash
     pip install tensorflow transformers gradio
