@@ -1,3 +1,4 @@
+![image alt](https://github.com/kenny755/Language-Translator-En-Fr/blob/main/En-Fr.jpg?raw=true)
 # English to French Translation App
 
 This project develops an English to French translation application using TensorFlow and the Hugging Face Transformers library. It utilizes a pre-trained Transformer model and provides a user-friendly interface through Gradio.
